@@ -20,11 +20,19 @@
 			<p>
 			
 			<h4>Research Topics</h4> Noncovex/convex optimization, deep learning, compressed sensing, etc.</p>
-
+<!--
 			<a href="mailto: panzhou3 AT gmail DOT com"><i class="fa fa-envelope"></i> &nbsp; panzhou3 AT gmail DOT com</a>
 			
 			&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 			
 			<a href="https://scholar.google.com.sg/citations?hl=en&user=0b7ZqlcAAAAJ" target="_blank"><i class="fa fa-globe"></i> &nbsp; Google Scholar</a>
+			-->
+			{% if site.email %}
+				 <a href="mailto: {{site.email}}"><i class="fa fa-envelope"></i> &nbsp; {{site.email}}</a>
+			{% endif %} 
+			{% if site.website %}
+				 <a href="https://scholar.google.com.sg/citations?hl=en&user=0b7ZqlcAAAAJ" target="_blank"><i class="fa fa-globe"></i> &nbsp; {{site.website}}</a>
+			{% endif %} 
+			
 	</div>
 </div>
