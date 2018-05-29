@@ -1,4 +1,4 @@
-@article{zhou2018analysisdnn,
+@article{zhou2018analysiscnns,
   title={Understanding Generalization and Optimization Performance of Deep CNNs},
   author={Pan Zhou and Jiashi Feng},
   journal={International Conference on Machine Learning},
