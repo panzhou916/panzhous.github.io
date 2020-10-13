@@ -1,6 +1,6 @@
-@article{zhou2019metalearning,
+@inproceedings{zhou2019metalearning,
   title={Efficient Meta Learning via Minibatch Proximal Update},
-  author={Pan Zhou and Xiaotong Yuan and Huan Xu and Shuicheng Yan},
-  journal={Neural Information Processing Systems},
+  author={Pan Zhou and Xiaotong Yuan and Huan Xu and Shuicheng Yan and Jiashi Feng},
+  booktitle={Neural Information Processing Systems},
   year={2019}
 }
