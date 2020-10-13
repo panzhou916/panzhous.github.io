@@ -1,6 +1,6 @@
-@article{zhou2018analysisdnn,
+@inproceedings{zhou2018analysisdnn,
   title={Empirical Risk Landscape Analysis for Understanding Deep Neural Networks},
   author={Pan Zhou and Jiashi Feng},
-  journal={International Conference on Learning Representations},
+  booktitle={International Conference on Learning Representations},
   year={2018}
 }
