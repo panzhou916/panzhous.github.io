@@ -1,6 +1,6 @@
-@article{zhou2018withreplacement,
+@inproceedings{zhou2018withreplacement,
   title={New Insight into Hybrid Stochastic Gradient Descent: Beyond With-Replacement Sampling and Convexity},
   author={Pan Zhou and Xiaotong Yuan and Jiashi Feng},
-  journal={Neural Information Processing Systems},
+  booktitle={Neural Information Processing Systems},
   year={2018}
 }
