@@ -1,6 +1,6 @@
-@article{zhou2018DSCN,
+@inproceedings{zhou2018DSCN,
   title={Deep Adversarial Subspace Clustering},
   author={Pan Zhou, Yunqing Hou and Jiashi Feng},
-  journal={IEEE Conference on Computer Vision and Pattern Recognition},
+  booktitle={IEEE Conference on Computer Vision and Pattern Recognition},
   year={2018}
 }
